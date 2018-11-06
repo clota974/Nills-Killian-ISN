@@ -1,4 +1,4 @@
-# Nills-Killian-ISN
+# Nils-Killian-ISN
 # Jeu de Nîmes
 # Cahier des charges
 
